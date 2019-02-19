@@ -1,1 +1,4 @@
-# Predicting water quality of different rivers in India as well as United States
+# real-time predictions of the water quality
+
+
+
